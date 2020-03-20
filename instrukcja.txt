@@ -1,0 +1,3 @@
+Wciśnij dwukrotnie LPM na planszy by dodać nowy wierzchołek.
+Kliknij PPM na jeden, następnie na drugi wierzchołek, aby je połączyć.
+Kliknij dwukrotnie PPM aby usunąć dany wierzchołek.

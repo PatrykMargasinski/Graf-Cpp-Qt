@@ -1,0 +1,20 @@
+<Graf>
+ <Wierzcholek numer="0" polozenie="100,120">
+  <lacznik>1</lacznik>
+ </Wierzcholek>
+ <Wierzcholek numer="1" polozenie="300,320">
+  <lacznik>0</lacznik>
+  <lacznik>2</lacznik>
+ </Wierzcholek>
+ <Wierzcholek numer="2" polozenie="100,320">
+  <lacznik>1</lacznik>
+  <lacznik>4</lacznik>
+ </Wierzcholek>
+ <Wierzcholek numer="3" polozenie="200,420">
+  <lacznik>4</lacznik>
+ </Wierzcholek>
+ <Wierzcholek numer="4" polozenie="100,220">
+  <lacznik>2</lacznik>
+  <lacznik>3</lacznik>
+ </Wierzcholek>
+</Graf>
